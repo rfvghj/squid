@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-crypto-zombie/static/css/main.8406f7ba.chunk.css",
+    "main.js": "/my-crypto-zombie/static/js/main.d93a38f6.chunk.js",
+    "main.js.map": "/my-crypto-zombie/static/js/main.d93a38f6.chunk.js.map",
+    "runtime-main.js": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js",
+    "runtime-main.js.map": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js.map",
+    "static/js/2.83d053b3.chunk.js": "/my-crypto-zombie/static/js/2.83d053b3.chunk.js",
+    "static/js/2.83d053b3.chunk.js.map": "/my-crypto-zombie/static/js/2.83d053b3.chunk.js.map",
+    "index.html": "/my-crypto-zombie/index.html",
+    "precache-manifest.2bb560e8377ac2b16de69d7c84bba922.js": "/my-crypto-zombie/precache-manifest.2bb560e8377ac2b16de69d7c84bba922.js",
+    "service-worker.js": "/my-crypto-zombie/service-worker.js",
+    "static/css/main.8406f7ba.chunk.css.map": "/my-crypto-zombie/static/css/main.8406f7ba.chunk.css.map",
+    "static/js/2.83d053b3.chunk.js.LICENSE": "/my-crypto-zombie/static/js/2.83d053b3.chunk.js.LICENSE",
+    "static/media/App.css": "/my-crypto-zombie/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/my-crypto-zombie/static/media/zombierun.08087132.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1a62d7.js",
+    "static/js/2.83d053b3.chunk.js",
+    "static/css/main.8406f7ba.chunk.css",
+    "static/js/main.d93a38f6.chunk.js"
+  ]
+}
